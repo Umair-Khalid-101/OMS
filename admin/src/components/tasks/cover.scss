@@ -1,0 +1,27 @@
+.cover {
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border: 2px solid #B1B1B1;
+    margin-right: 10px;
+}
+
+.active {
+    border: 2px solid #6BB5FF;
+}
+
+.cover-4 {
+    background: var(--project-gradient-bg-2, conic-gradient(from 225deg at 74.34% 57.07%, #420A5F 0deg, #5E108C 14.37387764453888deg, #AE2CBE 108.1245231628418deg, #CB61B2 224.37530279159546deg, #C77FA5 360deg));
+}
+
+.cover-3 {
+    background: var(--project-gradient-bg-1, conic-gradient(from 225deg at 74.34% 57.07%, #02589F 0deg, #0285C7 14.99895840883255deg, #02AADF 46.8741774559021deg, #6CD0F3 159.3749499320984deg, #83D9DC 256.8756079673767deg, #ABE1CC 360deg));
+}
+
+.cover-2 {
+    background: var(--project-gradient-bg-3, conic-gradient(from 225deg at 74.34% 57.07%, #811865 0deg, #B14189 12.49886468052864deg, #E5699C 61.24919772148132deg, #F2A9BA 159.3749499320984deg, #F7CEC8 252.50049591064453deg, #F9E1C9 360deg));
+}
+
+.cover-1 {
+    background: var(--project-gradient-bg-4, conic-gradient(from 225deg at 74.34% 57.07%, #040A44 0deg, #223D82 14.37387764453888deg, #38609F 72.49927282333374deg, #5E9BB9 200.00013828277588deg, #7BCFC9 360deg));
+}
